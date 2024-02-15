@@ -1,0 +1,118 @@
+[
+    {
+        "id": "PAV3C",
+        "title": "mp3 Player",
+        "imgUrl": [
+            "mp3Player-Home.JPG",
+            "mp3Player-Playlist.JPG",
+            "mp3Player-tags.JPG"
+        ],
+        "description": "Permet de lire des fichiers mp3 et d'afficher leur tags",
+        "keyWords": [
+            "mp3Tags",
+            "Files",
+            "Modal"
+        ],
+        "techs": [
+            "js",
+            "css",
+            "html",
+            "tailwind",
+            "react",
+            "vite"
+        ],
+        "url": "https://laurent-lezardon.github.io/AudioPlayerByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/AudioPlayerByLezardon",
+        "bodyText": "Problème a régler : \nun appui sur pause effectue un stop"
+    },
+    {
+        "id": "8bPeB",
+        "title": "Cameleon",
+        "imgUrl": [
+            "Cameleon-1.JPG",
+            "Cameleon-2.JPG"
+        ],
+        "description": "Animation de texte",
+        "techs": [
+            "CSS"
+        ],
+        "url": "https://laurent-lezardon.github.io/FS-CSS-Trick-1/",
+        "repository": "https://github.com/laurent-lezardon/FS-CSS-Trick-1.git",
+        "bodyText": "",
+        "keyWords": []
+    },
+    {
+        "id": "wBUxM",
+        "title": "Pong",
+        "imgUrl": [
+            "Pong-1.JPG"
+        ],
+        "description": "Jeu de pong animé a la souris",
+        "techs": [
+            "Tailwind",
+            "React",
+            "Vite",
+            "Redux-Toolkit"
+        ],
+        "url": "https://laurent-lezardon.github.io/PongByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/PongByLezardon",
+        "bodyText": "",
+        "keyWords": []
+    },
+    {
+        "id": "g4WXH",
+        "title": "Notes",
+        "imgUrl": [
+            "Notes-1.JPG",
+            "Notes-2.JPG",
+            "Notes-3.JPG"
+        ],
+        "description": "Gestionnaire de notes",
+        "techs": [
+            "React-router"
+        ],
+        "url": "https://laurent-lezardon.github.io/MyNotesByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/MyNotesByLezardon",
+        "bodyText": "Finaliser la version desktop",
+        "keyWords": []
+    },
+    {
+        "id": "d4Un-",
+        "title": "Buble Animation",
+        "imgUrl": [
+            "Buble-1.JPG"
+        ],
+        "description": "",
+        "techs": [
+            "js",
+            "css"
+        ],
+        "url": "https://laurent-lezardon.github.io/FS-JS-DOM-TP-Bubbles/",
+        "repository": "https://github.com/laurent-lezardon/FS-JS-DOM-TP-Bubbles",
+        "bodyText": "filter: hue-rotate(0)",
+        "keyWords": [
+            "animation",
+            "filter"
+        ]
+    },
+    {
+        "id": "Q9nco",
+        "title": "Game Birdy",
+        "imgUrl": [
+            "Birdy-1.JPG",
+            "Birdy-2.jpg"
+        ],
+        "description": "",
+        "techs": [
+            "js",
+            "css"
+        ],
+        "url": "https://laurent-lezardon.github.io/JS-Flappy-Bird-lol/",
+        "repository": "https://github.com/laurent-lezardon/JS-Flappy-Bird-lol",
+        "bodyText": "const img = new Image();\nimg.src = \"./media/flappy-bird-set.png\";\nconst canvas = document.getElementById(\"canvas\");\ncanvas.width = 431;\ncanvas.height = 768;\nconst ctx = canvas.getContext(\"2d\");\n// position et taille des barres dans l'image d'origine\nconst imgDownBar = [433, 108, ...barSize];\nctx.drawImage(img, ...imgDownBar, barMoveX, barPosition, ...barSize);",
+        "keyWords": [
+            "canvas",
+            "render"
+        ]
+    }
+]
