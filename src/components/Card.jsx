@@ -19,7 +19,7 @@ export default function Card() {
         >
           <img
             className=" block w-1/3   object-contain  rounded-t"
-            src={`../public/images/${project.imgUrl[0]}`}
+            src={`/images/${project.imgUrl[0]}`}
             alt="project image"
           ></img>
           <div className="pl-4  flex flex-col justify-between ">

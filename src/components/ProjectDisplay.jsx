@@ -36,7 +36,7 @@ export default function ProjectDisplay() {
         {project.imgUrl.map((img) => (
           <img
             className=" block h-[400px]  object-cover  rounded-t"
-            src={`../public/images/${img}`}
+            src={`/images/${img}`}
             alt="mp3Tag"
           ></img>
         ))}

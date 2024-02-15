@@ -114,5 +114,21 @@
             "canvas",
             "render"
         ]
+    },
+    {
+        "id": "TtSR4",
+        "title": "MyProjects",
+        "imgUrl": [
+            "MyProjects-1.png"
+        ],
+        "description": "",
+        "techs": [
+            "react",
+            "react-router"
+        ],
+        "url": "https://laurent-lezardon.github.io/GithubHomeByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/GithubHomeByLezardon",
+        "bodyText": "",
+        "keyWords": []
     }
 ]
