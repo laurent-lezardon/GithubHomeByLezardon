@@ -114,5 +114,41 @@
             "canvas",
             "render"
         ]
+    },
+    {
+        "id": "TtSR4",
+        "title": "MyProjects",
+        "imgUrl": [
+            "MyProjects-1.png"
+        ],
+        "description": "",
+        "techs": [
+            "react",
+            "react-router"
+        ],
+        "url": "https://laurent-lezardon.github.io/GithubHomeByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/GithubHomeByLezardon",
+        "bodyText": "",
+        "keyWords": []
+    },
+    {
+        "id": "XdnsE",
+        "title": "CSS Box Shadow Generator",
+        "imgUrl": [
+            "CSSBoxShadowsGenerator-1.png",
+            "CSSBoxShadowsGenerator-2.png",
+            "CSSBoxShadowsGenerator-3.png"
+        ],
+        "description": "Creation de box shadows et generation du code css",
+        "techs": [
+            "react",
+            "redux-toolkit"
+        ],
+        "url": "https://laurent-lezardon.github.io/CssBoxShadowGenerator/",
+        "repository": "https://github.com/laurent-lezardon/CssBoxShadowGenerator",
+        "bodyText": "Projet proposé par l'écolde du web",
+        "keyWords": [
+            "Modal"
+        ]
     }
 ]
