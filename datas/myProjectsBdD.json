@@ -150,5 +150,21 @@
         "keyWords": [
             "Modal"
         ]
+    },
+    {
+        "id": "-By0K",
+        "title": "Pomodoro",
+        "imgUrl": [
+            "Pomodoro-1.png",
+            "Pomodoro-2.png"
+        ],
+        "description": "Pomodoro",
+        "techs": [
+            "React"
+        ],
+        "url": "https://laurent-lezardon.github.io/PomodoroByLezardon/",
+        "repository": "https://github.com/laurent-lezardon/PomodoroByLezardon",
+        "bodyText": "",
+        "keyWords": []
     }
 ]
